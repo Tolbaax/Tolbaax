@@ -3,7 +3,9 @@
 - 👀 I’m interested in Cyber Security
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me Tolbax@gmail.com ,
--  https://twitter.com/Tolbaax ,
+-  <a href="Twitter.com/Tolbaax">
+<img align="left" alt="Tolbaax | Twitter width"22px"
+src="https://raw.githubusercontent.com/peterthehan/master/assets/twitter.svg"/> ,
 -  https://Linkedin.com/Tolbaax ,
 -  https://Instagram.com/Tolbaax ,
 -   https://Facebook.com/Tolbaax
