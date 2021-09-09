@@ -4,7 +4,6 @@
 </a> <a href="https://t.me/Tolbaax" rel="nofollow">
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://camo.githubusercontent.com/92ffb645527aa95375f953d6d19b0da0895f2a44c1dd87f69e787b9047f6344d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f74656c656772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="max-width: 100%;">
 </a>
-  
 - 👋 Hi, I’m @Tolbaax
 - 🌱 I’m currently learning Flutter
 - 👀 I’m interested in Cyber Security
