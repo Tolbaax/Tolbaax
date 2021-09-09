@@ -12,8 +12,8 @@
 
 <ul>
   <li>Flutter </li>
+  <li>Dart</li>
   <li>Cyber Security</li>
-  <li>FSOCIETY</li>
 </ul>
 Languages and Tools:
 <br><br>
