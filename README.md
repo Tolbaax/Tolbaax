@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tolbaax
-- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Cyber Security
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me Tolbax@gmail.com ,
 -  https://twitter.com/Tolbaax ,
