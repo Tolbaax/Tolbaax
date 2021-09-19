@@ -1,6 +1,6 @@
-<a href="https://twitter.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolbaax" height="28" width="28" style="max-width: 100%;"></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolbaax" height="28" width="28" style="max-width: 100%;"></a> &nbsp;&nbsp;
-<a href="https://fb.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tolbaax" height="28" width="28" style="max-width: 100%;"></a> &nbsp;&nbsp;
+<a href="https://twitter.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a> &nbsp;&nbsp;
+<a href="https://fb.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a> &nbsp;&nbsp;
 </a><br><br>
   <p>々&nbsp;&nbsp;𝐅𝐋𝐔𝐓𝐓𝐄𝐑</p>
   <p>々&nbsp;&nbsp;𝐃𝐀𝐑𝐓</p>
