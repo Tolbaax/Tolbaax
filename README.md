@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Flutter, Dart, IT, Next...
-- 📫 How to reach me: Tolbaax@gmail.com<p></p>
+- 🌱 I’m currently learning Flutter, IT, Next...
+- 📫 How to reach me: 
  <a href="https://twitter.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a> &nbsp;&nbsp;
 <a href="https://fb.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a>&nbsp;&nbsp;
