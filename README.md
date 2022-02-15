@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Mohamed Tolba👋</h2> 
-
-- IT Student
+ 
+- IT student
 - Flutter developer
 <hr>
 <h2> Contact with me on </h2>
