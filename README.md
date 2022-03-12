@@ -1,8 +1,8 @@
 # Hi there 👋
 
-### I'm Mohamed Tolba, a Computer Engineering Undergraduate.
-- #### Flutter Developer
-- #### IT Student
+ I'm Mohamed Tolba, a Computer Engineering Undergraduate.
+- Flutter Developer
+- IT Student
 
 <hr>
 
@@ -18,5 +18,5 @@
  <a href="https://linkedin.com/in/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolbaax" height="21" width="21" style="max-width: 100%;"></a>  &nbsp;&nbsp;
  <a href="https://twitter.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolbaax" height="21" width="21" style="max-width: 100%;"></a>
  
- - #### personal email : Tolbaax@gmail.com
+ - personal email : Tolbaax@gmail.com
 
