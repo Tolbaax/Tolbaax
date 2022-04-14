@@ -24,20 +24,20 @@
 ## Languages and Tools 🛠 
 
 <p>  
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> </a>  &nbsp;&nbsp;   
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a>  &nbsp;&nbsp; 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="35"/> </a>  &nbsp;&nbsp; 
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="30" height="30"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="25" height="25"/> </a>  &nbsp;&nbsp;   
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="25" height="25"/> </a>  &nbsp;&nbsp; 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25" height="25"/> </a>  &nbsp;&nbsp; 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="25" height="25"/> </a>
 </p>
 
 <br/>
 
  ## Connect With Me 📭
  
-<a href="https://Facebook.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a>  &nbsp;&nbsp; 
- <a href="https://linkedin.com/in/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a>  &nbsp;&nbsp;
- <a href="https://t.me/tolbaax" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a>  &nbsp;&nbsp;
- <a href="https://twitter.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a>  &nbsp;&nbsp;
- <a href="mailto:tolbaax@gmail.com" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/640px-Gmail_Icon_%282013-2020%29.svg.png" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a> 
+<a href="https://Facebook.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a>  &nbsp;&nbsp; 
+ <a href="https://linkedin.com/in/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a>  &nbsp;&nbsp;
+ <a href="https://t.me/tolbaax" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a>  &nbsp;&nbsp;
+ <a href="https://twitter.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a>  &nbsp;&nbsp;
+ <a href="mailto:tolbaax@gmail.com" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/640px-Gmail_Icon_%282013-2020%29.svg.png" alt="Tolbaax" height="25" width="25" style="max-width: 100%;"></a> 
  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tolbaax&label=Profile%20views&color=0e75b6&style=flat" alt="tolbaax" /> </p>
