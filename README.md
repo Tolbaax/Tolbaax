@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" height="120" src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" />
 
-## Github Statistics 📈 
+### Github Statistics 📈 
 
 <br/>
 
@@ -21,7 +21,7 @@
  
 <br/>
 
-## Languages and Tools 🛠 
+### Languages and Tools 🛠 
 
 <p>  
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> </a>  &nbsp;&nbsp;   
@@ -32,7 +32,7 @@
 
 <br/>
 
- ## Connect With Me 📭
+ ### Connect With Me 📭
  
 <a href="https://Facebook.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a>  &nbsp;&nbsp; 
  <a href="https://linkedin.com/in/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a>  &nbsp;&nbsp;
