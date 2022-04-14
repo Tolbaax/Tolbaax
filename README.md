@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" alt="GIF" height="100" src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" />
+<img align="right" alt="GIF" height="120" src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" />
 
 ## Github Statistics 📈 
 
