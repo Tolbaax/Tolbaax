@@ -16,7 +16,6 @@
 <br/>
 
 ![Mohamed Tolba Github Stats](https://github-readme-stats.vercel.app/api?username=tolbaax&show_icons=true&theme=github_dark)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolbaax&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 <br/>
