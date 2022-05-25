@@ -1,5 +1,4 @@
 <h1> Hi there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h1>
-<img align="right" alt="GIF" height="40px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
 
 
 ### I'm Mohamed Tolba, a Computer Engineering Undergraduate.
@@ -9,13 +8,12 @@
 
 <br>
 
-<img align="right" alt="GIF" height="90" src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" />
-
 ## Github Statistics 📈 
 
 <br/>
 
 ![Mohamed Tolba Github Stats](https://github-readme-stats.vercel.app/api?username=tolbaax&show_icons=true&theme=github_dark)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolbaax&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 <br/>
