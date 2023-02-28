@@ -1,4 +1,4 @@
-<h1> Hi there! 👋</h1>
+<h2> Hi there! 👋</h2>
 
 
 ### I'm Mohamed Tolba, a Computer Engineering Undergraduate.
@@ -8,18 +8,29 @@
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!
 
 <br>
+<h2>GitHub Stats and Activity 📈</h2>
 
-## Github Statistics 📈 
+<h3>Streak Stats 🔥</h3>
+ 
+  <!-- GitHub Readme Streak Stats - https://github.com/tolbaax/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/tolbaax/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tolbaax's streak" src="https://streak-stats.demolab.com?user=tolbaax&theme=github-dark-blue"/>
+    </a>
+  </p>
+
+<h3>GitHub Profile Stats 💻</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tolbaax's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tolbaax&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tolbaax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolbaax&langs_count=8&layout=compact&theme=github_dark" height="192px"/></a>
+<br/>
+
 
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolbaax&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Mohamed Tolba Github Stats](https://github-readme-stats.vercel.app/api?username=tolbaax&show_icons=true&theme=github_dark)
-
-
-<br/>
-
-## Languages and Tools 🛠 
+<h2>Languages and Tools 🛠</h2>
 <br>
 <p align="center">  
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35"/> </a>  &nbsp;&nbsp;   
@@ -32,9 +43,10 @@
 <a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="35" height="35"/> </a>
 </p>
 
+
 <br/>
 
- ## Connect With Me 📭
+<h2>Connect With Me 📭</h2>
  <br>
  <a href="mailto:tolbaax@gmail.com" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/640px-Gmail_Icon_%282013-2020%29.svg.png" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a> &nbsp;&nbsp; <a href="https://Facebook.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a> &nbsp;&nbsp; <a href="https://linkedin.com/in/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a> &nbsp;&nbsp; <a href="https://twitter.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolbaax" height="35" width="30" style="max-width: 100%;"></a>  
 
