@@ -46,5 +46,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tolbaax&label=Profile%20views&color=0e75b6&style=flat" alt="tolbaax" />
 </p>
 
-## My Snake 🐍
 ![snake gif](https://github.com/tolbaax/tolbaax/blob/output/github-contribution-grid-snake.svg)
