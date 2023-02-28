@@ -43,11 +43,7 @@
 <a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="35" height="35"/> </a>
 </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tolbaax&label=Profile%20views&color=0e75b6&style=flat" alt="tolbaax" />
+</p>
 
-<br/>
 
-<h2>Connect With Me 📭</h2>
- <br>
- <a href="mailto:tolbaax@gmail.com" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/640px-Gmail_Icon_%282013-2020%29.svg.png" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a> &nbsp;&nbsp; <a href="https://Facebook.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a> &nbsp;&nbsp; <a href="https://linkedin.com/in/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tolbaax" height="30" width="30" style="max-width: 100%;"></a> &nbsp;&nbsp; <a href="https://twitter.com/Tolbaax" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tolbaax" height="35" width="30" style="max-width: 100%;"></a>  
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tolbaax&label=Profile%20views&color=0e75b6&style=flat" alt="tolbaax" /> </p>
