@@ -36,6 +36,10 @@
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tolbaax&label=Profile%20views&color=0e75b6&style=flat" alt="tolbaax" />
+  
+  
 </p>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 <!-- ## My Snake 🐍
 ![snake gif](https://github.com/tolbaax/tolbaax/blob/output/github-contribution-grid-snake.svg) -->
