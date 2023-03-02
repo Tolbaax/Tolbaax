@@ -41,5 +41,3 @@
 </p>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-<!-- ## My Snake 🐍
-![snake gif](https://github.com/tolbaax/tolbaax/blob/output/github-contribution-grid-snake.svg) -->
