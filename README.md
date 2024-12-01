@@ -3,8 +3,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=80&lines=I'm+Mohamed+Tolba%2C+Software+engineer+passionate+about+Mobile+Programming+and+writing+clean+code+and+building;well+architected+mobile+applications." alt="Typing SVG" /></p>
 
- <h2>A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
- 
+<h2>A little more about me <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.5%></h2>
+
 - 🔭 Graduated in Information Technology from FCIS MU.
 - 👨‍💻 Specializing in Flutter development to build high-performance, cross-platform mobile applications.
 - 💪🏼 Passionate about solving complex problems through innovative and efficient software solutions.
