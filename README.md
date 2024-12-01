@@ -5,7 +5,7 @@
 
  <h2>A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
  
-- 🔭 I’m currently studying Information Technology at FCIS MU.
+- 🔭 I studied Information Technology at FCIS MU.
 - 👨‍💻 I’m currently working on Flutter development.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!
