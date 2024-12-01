@@ -5,10 +5,10 @@
 
  <h2>A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
  
-- 🔭 I studied Information Technology at FCIS MU.
-- 👨‍💻 I’m currently working on Flutter development.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!
+- 🔭 Graduated in Information Technology from FCIS MU.
+- 👨‍💻 Specializing in Flutter development to build high-performance, cross-platform mobile applications.
+- 💪🏼 Passionate about solving complex problems through innovative and efficient software solutions.
+- 💬 Open to collaboration, sharing knowledge, and contributing to impactful software projects.
 
 <br>
 <h2>GitHub Stats and Activity 📈</h2>
