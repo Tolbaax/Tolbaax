@@ -1,19 +1,22 @@
-<h2> Hi there! 👋</h2>
+<h1>Hello, folks! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30" alt="welcome"></h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=80&lines=I'm+Mohamed+Tolba%2C+Software+engineer+passionate+about+Mobile+Programming+and+writing+clean+code+and+building;well+architected+mobile+applications." alt="Typing SVG" /></p>
 
-### I'm Mohamed Tolba, a Computer Engineering Undergraduate.
-- 🔭 I’m currently studying Information Technology at FCIS MU.
-- 👨‍💻 I’m currently working on Flutter development.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!
+<h2>A little more about me <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4.5%></h2>
+
+- 🔭 Graduated in Information Technology from FCIS MU.
+- 👨‍💻 Specializing in Flutter development to build high-performance, cross-platform mobile applications.
+- 💪🏼 Passionate about solving complex problems through innovative and efficient software solutions.
+- 💬 Open to collaboration, sharing knowledge, and contributing to impactful software projects.
 
 <br>
 <h2>GitHub Stats and Activity 📈</h2>
-  <p>
+<!--   <p>
     <a href="https://github.com/tolbaax/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tolbaax's streak" src="https://streak-stats.demolab.com?user=tolbaax&theme=github-dark-blue"/>
     </a>
-  </p>
+  </p> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tolbaax's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tolbaax&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tolbaax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolbaax&langs_count=8&layout=compact&theme=github_dark" height="192px"/></a>
@@ -41,5 +44,3 @@
 </p>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-<!-- ## My Snake 🐍
-![snake gif](https://github.com/tolbaax/tolbaax/blob/output/github-contribution-grid-snake.svg) -->
