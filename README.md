@@ -20,16 +20,12 @@
 <h2>GitHub Stats and Activity 📈</h2>
 
 <p align="center">
-  <a href="https://github.com/tolbaax/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tolbaax's streak" src="https://streak-stats.demolab.com?user=tolbaax&theme=github-dark-blue" height="192px" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="tolbaax's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tolbaax&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="192px" />
   </a>
-
+    
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="tolbaax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolbaax&langs_count=8&layout=compact&theme=github_dark" height="192px" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="tolbaax's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tolbaax&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="192px" />
   </a>
 </p>
 
